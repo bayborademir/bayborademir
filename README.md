@@ -1,6 +1,6 @@
 <!-- ==================== TOP BAR — tech gradient ==================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,50:0891b2,100:0f172a&height=90&section=header&text=%3E%20_&fontSize=48&fontColor=00E5FF&fontAlignY=54&animation=fadeIn" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,50:0891b2,100:0f172a&height=140&section=header&text=Baybora%20Demir&fontSize=52&fontColor=E2E8F0&fontAlignY=55&animation=fadeIn" alt="header" width="100%" />
 
 <!-- ==================== TERMINAL TAGLINE ==================== -->
 
