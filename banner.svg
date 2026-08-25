@@ -1,64 +1,100 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Baybora Demir — software developer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Baybora Demir — software developer">
   <defs>
-    <!-- Cyan → blue gradient for the subtitle strip (Image 2 vibe) -->
+    <!-- Fantasy header cyan strip gradient -->
     <linearGradient id="cyanStrip" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#4EC7EE"/>
-      <stop offset="55%" stop-color="#4AB6EE"/>
-      <stop offset="100%" stop-color="#4A9EF3"/>
+      <stop offset="0%" stop-color="#02efff"/>
+      <stop offset="55%" stop-color="#5bd1ff"/>
+      <stop offset="100%" stop-color="#7db8ff"/>
+    </linearGradient>
+
+    <!-- Hero glow (subtle purple lift) -->
+    <radialGradient id="heroGlow" cx="0.15" cy="0.15" r="0.6">
+      <stop offset="0%" stop-color="#963cff" stop-opacity="0.25"/>
+      <stop offset="60%" stop-color="#37003c" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Diagonal shine on cyan strip -->
+    <linearGradient id="stripShine" x1="0" y1="0" x2="0.3" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
 
     <!-- Typing reveal mask -->
     <mask id="typeMask" maskUnits="userSpaceOnUse">
-      <rect x="0" y="180" width="0" height="80" fill="white">
+      <rect x="60" y="240" width="0" height="80" fill="white">
         <animate attributeName="width"
-                 values="0;1200;1200;0;0"
-                 keyTimes="0;0.35;0.75;0.95;1"
-                 dur="5s"
+                 values="0;720;720;0;0"
+                 keyTimes="0;0.35;0.72;0.94;1"
+                 dur="5.5s"
                  repeatCount="indefinite"/>
       </rect>
     </mask>
 
-    <!-- Blinking cursor animation -->
     <style>
       @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      @keyframes accentSlide {
+        0% { transform: translateX(-8px); opacity: 0; }
+        50% { transform: translateX(0); opacity: 1; }
+        100% { transform: translateX(0); opacity: 1; }
+      }
     </style>
   </defs>
 
-  <!-- ============ TOP: solid deep PL purple ============ -->
-  <rect x="0" y="0" width="1200" height="180" fill="#3B0432"/>
+  <!-- ============ HERO — deep PL purple (240 tall) ============ -->
+  <rect x="0" y="0" width="1200" height="240" fill="#37003c"/>
+  <rect x="0" y="0" width="1200" height="240" fill="url(#heroGlow)"/>
 
-  <!-- Thin cyan hairline separator -->
-  <rect x="0" y="179" width="1200" height="1.5" fill="#4EC7EE" opacity="0.35"/>
+  <!-- Left edge cyan bar (Fantasy identity) -->
+  <rect x="0" y="0" width="6" height="240" fill="#02efff"/>
 
-  <!-- Subtle top texture for depth -->
-  <rect x="0" y="0" width="1200" height="1" fill="#04F5FF" opacity="0.15"/>
-
-  <!-- Name — clean white bold, PL-style -->
-  <text x="600" y="118"
-        text-anchor="middle"
-        font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif"
+  <!-- Kicker eyebrow (small caps above the name, like PL section labels) -->
+  <text x="60" y="82"
+        font-family="'Helvetica Neue', Arial, sans-serif"
         font-weight="700"
-        font-size="76"
-        letter-spacing="-2"
-        fill="#FFFFFF">Baybora Demir</text>
+        font-size="14"
+        letter-spacing="6"
+        fill="#02efff">DEVELOPER · ANKARA</text>
 
-  <!-- Small accent dot / marker under the name (PL brand touch) -->
-  <circle cx="600" cy="152" r="3" fill="#04F5FF"/>
+  <!-- BAYBORA DEMIR — huge, bold, tight, all caps (PL hero style) -->
+  <text x="60" y="165"
+        font-family="'Helvetica Neue', Impact, 'Arial Black', Arial, sans-serif"
+        font-weight="900"
+        font-size="92"
+        letter-spacing="-3"
+        fill="#ffffff">BAYBORA DEMİR</text>
 
-  <!-- ============ BOTTOM: cyan-blue strip with animated "software developer" ============ -->
-  <rect x="0" y="180" width="1200" height="80" fill="url(#cyanStrip)"/>
+  <!-- Accent underline (cyan) -->
+  <rect x="60" y="190" width="140" height="5" fill="#02efff" style="animation: accentSlide 0.9s ease-out both;"/>
 
-  <!-- The animated text — clipped by growing mask to create typing effect -->
-  <g mask="url(#typeMask)">
-    <text x="600" y="230"
-          text-anchor="middle"
-          font-family="'IBM Plex Mono', 'Fira Code', 'Menlo', monospace"
-          font-weight="600"
-          font-size="30"
-          letter-spacing="3"
-          fill="#37003C">software developer</text>
+  <!-- Right-side decorative Fantasy-style chevrons -->
+  <g stroke="#02efff" stroke-width="2" fill="none" opacity="0.55">
+    <path d="M1080 60 L1120 100 L1080 140"/>
+    <path d="M1108 60 L1148 100 L1108 140"/>
   </g>
 
-  <!-- Blinking cursor — placed at approximate end-of-text position -->
-  <rect x="758" y="210" width="3" height="30" fill="#37003C" style="animation: blink 1s infinite;"/>
+  <!-- Bottom hairline separator (lime accent) -->
+  <rect x="0" y="238" width="1200" height="2" fill="#00ff87" opacity="0.7"/>
+
+  <!-- ============ CYAN SUBTITLE STRIP (80 tall) — Fantasy header vibe ============ -->
+  <rect x="0" y="240" width="1200" height="80" fill="url(#cyanStrip)"/>
+  <rect x="0" y="240" width="1200" height="80" fill="url(#stripShine)"/>
+
+  <!-- Animated "SOFTWARE DEVELOPER" text — typing via clip mask -->
+  <g mask="url(#typeMask)">
+    <text x="60" y="292"
+          font-family="'Helvetica Neue', Arial, sans-serif"
+          font-weight="800"
+          font-size="34"
+          letter-spacing="8"
+          fill="#37003c">SOFTWARE DEVELOPER</text>
+  </g>
+
+  <!-- Blinking cursor block after 'SOFTWARE DEVELOPER' (~640px width at font 34) -->
+  <rect x="708" y="266" width="4" height="34" fill="#37003c" style="animation: blink 1s infinite;"/>
+
+  <!-- Right-side stat block (Fantasy dashboard hint) -->
+  <g transform="translate(1000, 262)">
+    <text font-family="'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="11" letter-spacing="3" fill="#37003c">BASED IN</text>
+    <text y="28" font-family="'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="18" fill="#37003c">ANKARA, TR</text>
+  </g>
 </svg>

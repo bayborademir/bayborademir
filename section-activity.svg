@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 68" width="1200" height="68" role="img" aria-label="GitHub Activity">
+  <defs>
+    <linearGradient id="abg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#37003c"/>
+      <stop offset="70%" stop-color="#37003c"/>
+      <stop offset="100%" stop-color="#280028"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="68" fill="url(#abg)"/>
+  <rect x="0" y="0" width="4" height="68" fill="#02efff"/>
+  <rect x="0" y="66" width="1200" height="2" fill="#00ff87" opacity="0.55"/>
+
+  <text x="30" y="26"
+        font-family="'Helvetica Neue', Arial, sans-serif"
+        font-weight="700"
+        font-size="11"
+        letter-spacing="5"
+        fill="#02efff">/ 02</text>
+
+  <text x="30" y="55"
+        font-family="'Helvetica Neue', Arial, sans-serif"
+        font-weight="800"
+        font-size="24"
+        letter-spacing="2"
+        fill="#ffffff">GITHUB · ACTIVITY</text>
+
+  <g stroke="#02efff" stroke-width="1.5" fill="none" opacity="0.5" transform="translate(1130, 26)">
+    <path d="M0 0 L14 14 L0 28"/>
+    <path d="M20 0 L34 14 L20 28"/>
+  </g>
+</svg>
