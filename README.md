@@ -1,69 +1,32 @@
-<!-- ==================== HEADER — animated wave ==================== -->
+<!-- ==================== TOP BAR — tech gradient ==================== -->
 
-<a href="https://github.com/bayborademir">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:6366f1,100:ec4899&height=220&section=header&text=Baybora%20Demir&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Yaz%C4%B1l%C4%B1m%20geli%C5%9Ftirici%20%C2%B7%20Ankara&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn" alt="header banner" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,50:0891b2,100:0f172a&height=90&section=header&text=%3E%20_&fontSize=48&fontColor=00E5FF&fontAlignY=54&animation=fadeIn" alt="header" width="100%" />
 
-<!-- ==================== TYPING TAGLINE ==================== -->
+<!-- ==================== TERMINAL TAGLINE ==================== -->
 
 <p align="center">
   <a href="https://github.com/bayborademir">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&pause=1500&color=A78BFA&center=true&vCenter=true&multiline=false&width=720&height=48&lines=Fikri+koda%2C+kodu+%C3%BCr%C3%BCne+d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCr%C3%BCm.;Backend+%C2%B7+Frontend+%C2%B7+Trading+altyap%C4%B1s%C4%B1+%C2%B7+SaaS.;%C5%9Eeffafl%C4%B1k+%C3%BCzerine+kurulmu%C5%9F+sistemler+in%C5%9Fa+ederim.;Anlamad%C4%B1%C4%9F%C4%B1m+bir+kutuyu+ba%C4%9Flamam%2C+bir+kut+de%C4%9Fildir+demem." alt="typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=22D3EE&center=true&vCenter=true&multiline=false&width=760&height=52&lines=%24+whoami+%E2%86%92+developer+building+production-grade+software;%24+stack+%E2%86%92+Node.js+%C2%B7+TypeScript+%C2%B7+.NET+%C2%B7+Angular+%C2%B7+PostgreSQL;%24+principles+%E2%86%92+transparency%2C+safety-first%2C+honest+copy;%24+location+%E2%86%92+Ankara%2C+T%C3%BCrkiye+%E2%80%94+remote-friendly" alt="typing tagline" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bayborademir&label=Profil%20g%C3%B6sterimi&color=A78BFA&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Konum-T%C3%BCrkiye%2FAnkara-EC4899?style=flat" alt="konum" />
+  <img src="https://komarev.com/ghpvc/?username=bayborademir&label=profile%20views&color=22d3ee&style=for-the-badge" alt="profile views" />
   <a href="https://www.linkedin.com/in/bayborademir/">
-    <img src="https://img.shields.io/badge/LinkedIn-bayborademir-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-bayborademir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:bayborademirdev@outlook.com">
-    <img src="https://img.shields.io/badge/E%E2%80%91posta-bayborademirdev@outlook.com-6366F1?style=flat&logo=microsoftoutlook&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/Email-bayborademirdev%40outlook.com-0891B2?style=for-the-badge&logo=maildotru&logoColor=white" alt="email" />
   </a>
 </p>
 
----
+<!-- ==================== ANIMATED SEPARATOR ==================== -->
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/rocket.gif" width="26"/> &nbsp;Kim, ne yapar?
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
 
-Ben **Baybora Demir**. Ankara'da yaşıyorum, karmaşık problemleri her gün kullanılabilecek yazılımlara dönüştürüyorum. Backend'de **Node.js + TypeScript** ve **.NET (C#)**, arayüzde **Angular** — üretim seviyesinde uygulamalar. Tasarım tarafını hafife almam: **editorial tipografi**, **disiplinli renk**, akışkan geçişler.
+<br/>
 
-Bir sistem yaparken üç şeyi baş tarafa yazarım:
-
-> **Şeffaflık.** Sistem ne yapıyorsa, kullanıcıya sebebini de anlatmalı.
->
-> **Güvenlik önce.** Para veya kimlik değerinin olduğu yerde risk yönetimi kurallara işlensin, hatırlanma umuduna değil.
->
-> **Dürüst kopya.** Özellik listesi vaat değil, açıklamadır.
-
----
-
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/about.gif" width="26"/> &nbsp;Şu an üzerinde çalıştıklarım
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🤖 AI destekli Trading Konsolu</h3>
-      <p><em>Güvenlik-önce Binance spot işlem altyapısı; şeffaf stratejiler, sıkı risk yönetimi, Türkçe eğitim modülü, canlı grafikler.</em></p>
-      <p><code>Node · TS · Angular 18 · SQLite</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>☕ Kafe Yönetim Sistemi</h3>
-      <p><em>Kafeler için adisyon, sipariş, stok ve gün sonu raporlama. Masa haritası, personel yetki katmanları.</em></p>
-      <p><code>C# · .NET · MSSQL</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🏨 Otel Kurumsal Sitesi</h3>
-      <p><em>Grand Ahos Hotel için modern, hızlı kurumsal web sitesi. Görsel kalite + Core Web Vitals.</em></p>
-      <p><code>TypeScript · Editorial UI</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/skills.gif" width="26"/> &nbsp;Alet çantası
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/skills.gif" width="26"/>&nbsp;&nbsp;`toolkit`
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -71,62 +34,67 @@ Bir sistem yaparken üç şeyi baş tarafa yazarım:
   </a>
 </p>
 
-**Backend:** Node.js, TypeScript, Express, .NET / C#, RESTful API, WebSocket, cron scheduling
-**Frontend:** Angular 18 (standalone + signals), React, Tailwind, lightweight-charts, editorial CSS
-**Veri:** PostgreSQL, SQLite (WAL), MongoDB, Redis, ExcelJS raporlama
-**Güvenlik:** AES-256-GCM, JWT, HTTP Basic-Auth katmanı, audit log, secrets management
-**Diğer:** Docker, Linux, GitHub Actions, ngrok, Figma → kod pipeline
+```yaml
+backend:   [Node.js, TypeScript, Express, .NET / C#, REST, WebSocket, cron]
+frontend:  [Angular 18 (standalone + signals), React, Tailwind, lightweight-charts]
+data:      [PostgreSQL, SQLite (WAL), MongoDB, Redis, ExcelJS reporting]
+security:  [AES-256-GCM, JWT, HTTP auth layer, audit log, secrets mgmt]
+tooling:   [Docker, Linux, GitHub Actions, ngrok, Figma → code pipeline]
+```
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/github.gif" width="26"/> &nbsp;GitHub aktivite
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/github.gif" width="26"/>&nbsp;&nbsp;`github.activity`
 
 <p align="center">
   <a href="https://github.com/bayborademir">
-    <img src="https://github-readme-stats.vercel.app/api?username=bayborademir&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&title_color=ec4899&icon_color=a78bfa&text_color=e2e8f0&bg_color=0f172a" alt="github stats" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bayborademir&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=22d3ee&icon_color=a78bfa&text_color=e2e8f0&bg_color=0f172a" alt="github stats" height="170" />
   </a>
   <a href="https://github.com/bayborademir">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayborademir&theme=radical&hide_border=true&background=0f172a&stroke=6366f1&ring=ec4899&fire=a78bfa&currStreakLabel=ec4899&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="streak stats" height="170" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayborademir&theme=tokyonight&hide_border=true&background=0f172a&stroke=22d3ee&ring=a78bfa&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="streak stats" height="170" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bayborademir">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayborademir&layout=compact&langs_count=8&count_private=true&theme=radical&hide_border=true&title_color=ec4899&text_color=e2e8f0&bg_color=0f172a" alt="top languages" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayborademir&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true&title_color=22d3ee&text_color=e2e8f0&bg_color=0f172a" alt="top languages" height="150" />
+  </a>
+  <a href="https://github.com/bayborademir">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bayborademir&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=22d3ee&line=a78bfa&point=22d3ee&area=true&area_color=6366f1" alt="activity graph" height="150" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bayborademir">
-    <img src="https://github-profile-trophy.vercel.app/?username=bayborademir&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bayborademir&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
   </a>
 </p>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/coffee.gif" width="26"/> &nbsp;Bir kahve içelim mi?
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/coffee.gif" width="26"/>&nbsp;&nbsp;`reach.out()`
 
 <table>
   <tr>
-    <td>📧</td>
-    <td><a href="mailto:bayborademirdev@outlook.com"><b>bayborademirdev@outlook.com</b></a> &nbsp;·&nbsp; iş fırsatı, iş birliği, ya da sadece merhaba için</td>
+    <td width="60">📧</td>
+    <td><a href="mailto:bayborademirdev@outlook.com"><b>bayborademirdev@outlook.com</b></a> &nbsp;·&nbsp; work, collaboration, or just to say hello</td>
   </tr>
   <tr>
     <td>💼</td>
-    <td><a href="https://www.linkedin.com/in/bayborademir/"><b>linkedin.com/in/bayborademir</b></a> &nbsp;·&nbsp; profesyonel geçmiş</td>
+    <td><a href="https://www.linkedin.com/in/bayborademir/"><b>linkedin.com/in/bayborademir</b></a> &nbsp;·&nbsp; professional background</td>
   </tr>
   <tr>
     <td>📍</td>
-    <td><b>Ankara, Türkiye</b> &nbsp;·&nbsp; uzak çalışmaya açık</td>
+    <td><b>Ankara, Türkiye</b> &nbsp;·&nbsp; open to remote work</td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ==================== FOOTER — animated wave (mirrored) ==================== -->
+<!-- ==================== FOOTER — tech gradient mirrored ==================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:6366f1,100:1e293b&height=110&section=footer&text=&fontSize=0" alt="footer wave" width="100%" />
-
-<p align="center">
-  <sub><em>“Kod, disiplinli düşüncenin gözle görülür halidir.”</em></sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,50:0891b2,100:0f172a&height=70&section=footer&text=%2F%2F%20end%20of%20file&fontSize=18&fontColor=22D3EE&fontAlignY=60" alt="footer" width="100%" />
