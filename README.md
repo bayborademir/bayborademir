@@ -141,4 +141,4 @@ tooling:   [Docker, Linux, GitHub Actions, ngrok, Figma → code pipeline]
      FOOTER — PL purple with cyan accent
 ============================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:37003c,50:02efff,100:37003c&height=90&section=footer&text=%2F%2F%20end%20of%20file&fontSize=16&fontColor=ffffff&fontAlignY=68&animation=fadeIn" alt="footer" width="100%" />
+<img src="https://raw.githubusercontent.com/bayborademir/bayborademir/main/footer.svg" alt="FT — Full Time" width="100%" />

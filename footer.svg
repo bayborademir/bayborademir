@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 68" width="1200" height="68" role="img" aria-label="Toolkit">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="Full Time">
   <defs>
-    <linearGradient id="tbg" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#37003c"/>
-      <stop offset="70%" stop-color="#37003c"/>
-      <stop offset="100%" stop-color="#280028"/>
+      <stop offset="50%" stop-color="#02efff"/>
+      <stop offset="100%" stop-color="#37003c"/>
     </linearGradient>
-      <style>
+    <style>
     @font-face {
       font-family: 'Manrope';
       font-style: normal;
@@ -14,27 +14,28 @@
     }
     </style>
   </defs>
-  <rect width="1200" height="68" fill="url(#tbg)"/>
-  <rect x="0" y="0" width="4" height="68" fill="#02efff"/>
-  <rect x="0" y="66" width="1200" height="2" fill="#00ff87" opacity="0.55"/>
-
-  <text x="30" y="26"
-        font-family="'Manrope', 'Söhne', 'Neue Haas Grotesk', 'Helvetica Neue', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
-        font-weight="700"
-        font-size="11"
-        letter-spacing="5"
-        fill="#02efff">/ 01</text>
-
-  <text x="30" y="55"
+  <rect width="1200" height="90" fill="url(#fbg)"/>
+  <!-- Center text: FT — FULL TIME -->
+  <text x="600" y="42"
+        text-anchor="middle"
         font-family="'Manrope', 'Söhne', 'Neue Haas Grotesk', 'Helvetica Neue', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
         font-weight="800"
-        font-size="24"
-        letter-spacing="2"
-        fill="#ffffff">TOOLKIT</text>
-
-  <!-- Decorative chevrons on the right -->
-  <g stroke="#02efff" stroke-width="1.5" fill="none" opacity="0.5" transform="translate(1130, 26)">
-    <path d="M0 0 L14 14 L0 28"/>
-    <path d="M20 0 L34 14 L20 28"/>
+        font-size="20"
+        letter-spacing="6"
+        fill="#ffffff">FT &#8226; FULL TIME</text>
+  <text x="600" y="70"
+        text-anchor="middle"
+        font-family="'Manrope', 'Söhne', 'Neue Haas Grotesk', 'Helvetica Neue', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+        font-weight="600"
+        font-size="11"
+        letter-spacing="4"
+        fill="#ffffff"
+        opacity="0.75">THANKS FOR SCROLLING</text>
+  <!-- Corner ticks -->
+  <g stroke="#ffffff" stroke-width="1" opacity="0.4">
+    <path d="M20 20 L20 30 M20 20 L30 20" fill="none"/>
+    <path d="M1180 20 L1180 30 M1180 20 L1170 20" fill="none"/>
+    <path d="M20 80 L20 70 M20 80 L30 80" fill="none"/>
+    <path d="M1180 80 L1180 70 M1180 80 L1170 80" fill="none"/>
   </g>
 </svg>
