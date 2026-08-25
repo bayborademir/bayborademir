@@ -123,4 +123,4 @@ tooling:   [Docker, Linux, GitHub Actions, ngrok, Figma → code pipeline]
 
 <!-- ==================== FOOTER — tech gradient mirrored ==================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,50:0891b2,100:0f172a&height=70&section=footer&text=%2F%2F%20end%20of%20file&fontSize=18&fontColor=22D3EE&fontAlignY=60" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:3B0432,50:963CFF,100:3B0432&height=70&section=footer&text=%2F%2F%20end%20of%20file&fontSize=18&fontColor=4EC7EE&fontAlignY=60" alt="footer" width="100%" />
