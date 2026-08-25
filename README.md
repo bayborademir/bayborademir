@@ -1,6 +1,6 @@
-<!-- ==================== TOP BAR — tech gradient ==================== -->
+<!-- ==================== TOP BAR — Premier League purple gradient banner ==================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,50:0891b2,100:0f172a&height=140&section=header&text=Baybora%20Demir&fontSize=52&fontColor=E2E8F0&fontAlignY=55&animation=fadeIn" alt="header" width="100%" />
+<img src="https://raw.githubusercontent.com/bayborademir/bayborademir/main/banner.svg" alt="Baybora Demir — Software Developer" width="100%" />
 
 <!-- ==================== TERMINAL TAGLINE ==================== -->
 
@@ -23,6 +23,12 @@
 <!-- ==================== ANIMATED SEPARATOR ==================== -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
+
+<br/>
+
+<p align="center">
+  <em>Ships production software. Prefers boring, well-tested tools. Believes design and reliability are the same problem.</em>
+</p>
 
 <br/>
 
@@ -70,13 +76,31 @@ tooling:   [Docker, Linux, GitHub Actions, ngrok, Figma → code pipeline]
   </a>
 </p>
 
-<p align="center"><sub>Contribution grid</sub></p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/bayborademir">
-    <img src="https://ghchart.rshah.org/22d3ee/bayborademir" alt="contribution grid" width="92%" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <b>&nbsp;Contributions in the last year&nbsp;</b>
+        <br/>
+        <sub>Learn how we count contributions</sub>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/bayborademir">
+          <img src="https://ghchart.rshah.org/963CFF/bayborademir" alt="contribution graph — last year" width="720" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <sub>Less &nbsp;<img src="https://img.shields.io/badge/-%20-1a0028?style=flat-square" height="10"/>&nbsp;<img src="https://img.shields.io/badge/-%20-4a1970?style=flat-square" height="10"/>&nbsp;<img src="https://img.shields.io/badge/-%20-7a2fa8?style=flat-square" height="10"/>&nbsp;<img src="https://img.shields.io/badge/-%20-963CFF?style=flat-square" height="10"/>&nbsp;<img src="https://img.shields.io/badge/-%20-E90052?style=flat-square" height="10"/>&nbsp; More</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
