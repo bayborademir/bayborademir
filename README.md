@@ -58,24 +58,6 @@ tooling:   [Docker, Linux, GitHub Actions, ngrok, Figma → code pipeline]
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/bayborademir">
-    <img src="https://streak-stats.demolab.com?user=bayborademir&hide_border=true&background=37003c&stroke=02efff&ring=00ff87&fire=e90052&currStreakLabel=02efff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=00ff87&dates=b39ddb" alt="streak stats" height="180" />
-  </a>
-  <a href="https://github.com/bayborademir">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bayborademir&theme=midnight-purple&exclude=jupyter%20notebook" alt="most commit language" height="180" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/bayborademir">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bayborademir&theme=midnight-purple&exclude=jupyter%20notebook" alt="repos per language" height="180" />
-  </a>
-  <a href="https://github.com/bayborademir">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bayborademir&theme=midnight-purple" alt="stats" height="180" />
-  </a>
-</p>
-
 <br/>
 
 <div align="center">
