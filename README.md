@@ -2,13 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/bayborademir/bayborademir/main/banner.svg" alt="Baybora Demir — Software Developer" width="100%" />
 
-<!-- ==================== TERMINAL TAGLINE ==================== -->
-
-<p align="center">
-  <a href="https://github.com/bayborademir">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1800&color=22D3EE&center=true&vCenter=true&multiline=false&width=520&height=52&lines=software+developer" alt="software developer" />
-  </a>
-</p>
+<!-- (name + animated "software developer" now live inside banner.svg) -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bayborademir&label=profile%20views&color=22d3ee&style=for-the-badge" alt="profile views" />
