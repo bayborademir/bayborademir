@@ -2,7 +2,7 @@
      HERO — deep PL purple + animated cyan subtitle strip
 ============================================================= -->
 
-<img src="https://raw.githubusercontent.com/bayborademir/bayborademir/main/banner.svg" alt="Baybora Demir — Software Developer" width="100%" />
+<img src="https://raw.githubusercontent.com/bayborademir/bayborademir/refs/heads/main/banner.svg" alt="Baybora Demir — Software Developer" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bayborademir&label=PROFILE%20VIEWS&color=37003c&style=for-the-badge&labelColor=02efff" alt="profile views" />
@@ -24,7 +24,7 @@
      SECTION 01 — TOOLKIT
 ============================================================= -->
 
-<img src="https://raw.githubusercontent.com/bayborademir/bayborademir/main/section-toolkit.svg" alt="Toolkit" width="100%" />
+<img src="https://raw.githubusercontent.com/bayborademir/bayborademir/refs/heads/main/section-toolkit.svg" alt="Toolkit" width="100%" />
 
 <br/>
 
@@ -48,7 +48,7 @@ tooling:   [Docker, Linux, GitHub Actions, ngrok, Figma → code pipeline]
      SECTION 02 — GITHUB ACTIVITY
 ============================================================= -->
 
-<img src="https://raw.githubusercontent.com/bayborademir/bayborademir/main/section-activity.svg" alt="GitHub Activity" width="100%" />
+<img src="https://raw.githubusercontent.com/bayborademir/bayborademir/refs/heads/main/section-activity.svg" alt="GitHub Activity" width="100%" />
 
 <br/>
 
@@ -98,7 +98,7 @@ tooling:   [Docker, Linux, GitHub Actions, ngrok, Figma → code pipeline]
      SECTION 03 — REACH OUT
 ============================================================= -->
 
-<img src="https://raw.githubusercontent.com/bayborademir/bayborademir/main/section-reach.svg" alt="Reach Out" width="100%" />
+<img src="https://raw.githubusercontent.com/bayborademir/bayborademir/refs/heads/main/section-reach.svg" alt="Reach Out" width="100%" />
 
 <br/>
 
@@ -123,4 +123,4 @@ tooling:   [Docker, Linux, GitHub Actions, ngrok, Figma → code pipeline]
      FOOTER — PL purple with cyan accent
 ============================================================= -->
 
-<img src="https://raw.githubusercontent.com/bayborademir/bayborademir/main/footer.svg" alt="FT — Full Time" width="100%" />
+<img src="https://raw.githubusercontent.com/bayborademir/bayborademir/refs/heads/main/footer.svg" alt="FT — Full Time" width="100%" />
