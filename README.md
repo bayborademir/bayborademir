@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/bayborademir">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=22D3EE&center=true&vCenter=true&multiline=false&width=760&height=52&lines=%24+whoami+%E2%86%92+developer+building+production-grade+software;%24+stack+%E2%86%92+Node.js+%C2%B7+TypeScript+%C2%B7+.NET+%C2%B7+Angular+%C2%B7+PostgreSQL;%24+principles+%E2%86%92+transparency%2C+safety-first%2C+honest+copy;%24+location+%E2%86%92+Ankara%2C+T%C3%BCrkiye+%E2%80%94+remote-friendly" alt="typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1800&color=22D3EE&center=true&vCenter=true&multiline=false&width=520&height=52&lines=software+developer" alt="software developer" />
   </a>
 </p>
 
