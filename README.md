@@ -48,25 +48,33 @@ tooling:   [Docker, Linux, GitHub Actions, ngrok, Figma → code pipeline]
 
 <p align="center">
   <a href="https://github.com/bayborademir">
-    <img src="https://github-readme-stats.vercel.app/api?username=bayborademir&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=22d3ee&icon_color=a78bfa&text_color=e2e8f0&bg_color=0f172a" alt="github stats" height="170" />
-  </a>
-  <a href="https://github.com/bayborademir">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayborademir&theme=tokyonight&hide_border=true&background=0f172a&stroke=22d3ee&ring=a78bfa&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="streak stats" height="170" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bayborademir&theme=tokyonight" alt="profile summary" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bayborademir">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayborademir&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true&title_color=22d3ee&text_color=e2e8f0&bg_color=0f172a" alt="top languages" height="150" />
+    <img src="https://streak-stats.demolab.com?user=bayborademir&theme=tokyonight&hide_border=true&background=0f172a&stroke=22d3ee&ring=a78bfa&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="streak stats" height="180" />
   </a>
   <a href="https://github.com/bayborademir">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bayborademir&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=22d3ee&line=a78bfa&point=22d3ee&area=true&area_color=6366f1" alt="activity graph" height="150" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bayborademir&theme=tokyonight&exclude=jupyter%20notebook" alt="most commit language" height="180" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bayborademir">
-    <img src="https://github-profile-trophy.vercel.app/?username=bayborademir&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bayborademir&theme=tokyonight&exclude=jupyter%20notebook" alt="repos per language" height="180" />
+  </a>
+  <a href="https://github.com/bayborademir">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bayborademir&theme=tokyonight" alt="stats" height="180" />
+  </a>
+</p>
+
+<p align="center"><sub>Contribution grid</sub></p>
+
+<p align="center">
+  <a href="https://github.com/bayborademir">
+    <img src="https://ghchart.rshah.org/22d3ee/bayborademir" alt="contribution grid" width="92%" />
   </a>
 </p>
 
