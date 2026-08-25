@@ -5,12 +5,12 @@
 <!-- (name + animated "software developer" now live inside banner.svg) -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bayborademir&label=profile%20views&color=22d3ee&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bayborademir&label=profile%20views&color=963CFF&style=for-the-badge" alt="profile views" />
   <a href="https://www.linkedin.com/in/bayborademir/">
-    <img src="https://img.shields.io/badge/LinkedIn-bayborademir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-bayborademir-3B0432?style=for-the-badge&logo=linkedin&logoColor=4EC7EE" alt="linkedin" />
   </a>
   <a href="mailto:bayborademirdev@outlook.com">
-    <img src="https://img.shields.io/badge/Email-bayborademirdev%40outlook.com-0891B2?style=for-the-badge&logo=maildotru&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/Email-bayborademirdev%40outlook.com-963CFF?style=for-the-badge&logo=maildotru&logoColor=white" alt="email" />
   </a>
 </p>
 
@@ -48,25 +48,25 @@ tooling:   [Docker, Linux, GitHub Actions, ngrok, Figma → code pipeline]
 
 <p align="center">
   <a href="https://github.com/bayborademir">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bayborademir&theme=tokyonight" alt="profile summary" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bayborademir&theme=shades_of_purple" alt="profile summary" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bayborademir">
-    <img src="https://streak-stats.demolab.com?user=bayborademir&theme=tokyonight&hide_border=true&background=0f172a&stroke=22d3ee&ring=a78bfa&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="streak stats" height="180" />
+    <img src="https://streak-stats.demolab.com?user=bayborademir&hide_border=true&background=3B0432&stroke=4EC7EE&ring=963CFF&fire=E90052&currStreakLabel=4EC7EE&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B39DDB" alt="streak stats" height="180" />
   </a>
   <a href="https://github.com/bayborademir">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bayborademir&theme=tokyonight&exclude=jupyter%20notebook" alt="most commit language" height="180" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bayborademir&theme=shades_of_purple&exclude=jupyter%20notebook" alt="most commit language" height="180" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bayborademir">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bayborademir&theme=tokyonight&exclude=jupyter%20notebook" alt="repos per language" height="180" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bayborademir&theme=shades_of_purple&exclude=jupyter%20notebook" alt="repos per language" height="180" />
   </a>
   <a href="https://github.com/bayborademir">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bayborademir&theme=tokyonight" alt="stats" height="180" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bayborademir&theme=shades_of_purple" alt="stats" height="180" />
   </a>
 </p>
 
